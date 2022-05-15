@@ -16,6 +16,9 @@ The LabDAO is an online community of scientists and engineers that care about bu
 * github to maintain a webpage describing the lab meeting, embed recordings and collect meeting notes
 
 ## team 
+* Jessica
+* Stanley
+* Boris
 * Niklas
 
 # process
